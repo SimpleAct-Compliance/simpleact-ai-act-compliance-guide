@@ -1,0 +1,12 @@
+{
+  "name": "ai-act-compliance-guide",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI Act Compliance Guide by Simpleact.",
+  "scripts": {
+    "validate": "node ./scripts/validate-framework.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
