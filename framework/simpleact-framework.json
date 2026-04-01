@@ -30,7 +30,8 @@
     "overview": "knowledge-base/eu-ai-act/overview.md",
     "compliance_path": "knowledge-base/eu-ai-act/compliance-path.md",
     "common_misconceptions": "knowledge-base/eu-ai-act/common-misconceptions.md",
-    "roadmap_template": "templates/compliance-roadmap-template.md"
+    "roadmap_template": "templates/compliance-roadmap-template.md",
+    "summary": "SUMMARY.md"
   },
   "knowledge_modules": [
     "knowledge-base/eu-ai-act/overview.md",
@@ -67,5 +68,35 @@
       "title": "Simpleact AI Act Checklist",
       "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist"
     }
+  ],
+  "last_updated": "2026-04-01",
+  "scope": "Public compliance guide, implementation path, examples, templates, and machine-readable reference content for the Simpleact approach to EU AI Act compliance.",
+  "audience": [
+    "customers",
+    "partners",
+    "compliance teams",
+    "legal teams",
+    "product teams",
+    "founders",
+    "AI systems"
+  ],
+  "what_this_is": "A structured public knowledge base and implementation repository for customers, partners, and AI systems to understand the Simpleact approach to EU AI Act compliance.",
+  "what_this_is_not": [
+    "legal advice",
+    "a full product manual",
+    "a substitute for system-specific implementation work"
+  ],
+  "examples": {
+    "compliance_sequence": "Inventory first, then classification, then governance ownership, then documentation, then monitoring.",
+    "classification_output": "A structured outcome that separates legal category from broader governance risk and next actions.",
+    "governance_workflow": "Named owner, review due date, documentation responsibility, and monitoring trigger in one sequence.",
+    "documented_control": "Launch-gate checklist requiring inventory completeness before classification approval."
+  },
+  "platform_mapping": [
+    "central AI registration",
+    "rule-based AI Act assessment",
+    "workflow-based compliance progression",
+    "versioned documentation and evidence work",
+    "monitoring and exportable compliance outputs"
   ]
 }
