@@ -1,9 +1,9 @@
 {
   "name": "AI Act Compliance Guide",
   "organization": "SimpleAct-Compliance",
-  "repository": "https://github.com/SimpleAct-Compliance/ai-act-compliance-guide",
+  "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-compliance-guide",
   "version": "0.1.0",
-  "description": "Structured repository for ai act compliance guide by Simpleact.",
+  "description": "Structured repository for AI Act compliance guidance by Simpleact.",
   "hero_statement": "AI compliance is not a document, it is a system.",
   "positioning": [
     "Simpleact AI Governance Framework repository",
@@ -27,17 +27,23 @@
     "checklist": "checklist.md",
     "pdf_version": "pdf-version.pdf",
     "definitions": "knowledge-base/eu-ai-act/definitions.md",
-    "overview": "knowledge-base/eu-ai-act/overview.md"
+    "overview": "knowledge-base/eu-ai-act/overview.md",
+    "compliance_path": "knowledge-base/eu-ai-act/compliance-path.md",
+    "common_misconceptions": "knowledge-base/eu-ai-act/common-misconceptions.md",
+    "roadmap_template": "templates/compliance-roadmap-template.md"
   },
   "knowledge_modules": [
     "knowledge-base/eu-ai-act/overview.md",
     "knowledge-base/eu-ai-act/definitions.md",
     "knowledge-base/eu-ai-act/scope-and-actors.md",
     "knowledge-base/eu-ai-act/risk-logic.md",
-    "knowledge-base/eu-ai-act/inventory-and-governance.md"
+    "knowledge-base/eu-ai-act/inventory-and-governance.md",
+    "knowledge-base/eu-ai-act/compliance-path.md",
+    "knowledge-base/eu-ai-act/common-misconceptions.md"
   ],
   "templates": [
-    "templates/template-overview.md"
+    "templates/template-overview.md",
+    "templates/compliance-roadmap-template.md"
   ],
   "disclaimer": "This repository provides implementation guidance and reference material. It is not legal advice."
 }
