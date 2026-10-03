@@ -1,102 +1,107 @@
 {
-  "name": "AI Act Compliance Guide",
+  "name": "EU AI Act: wo anfangen",
+  "name_en": "EU AI Act Compliance Guide",
   "organization": "SimpleAct-Compliance",
+  "publisher": "SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland",
   "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-compliance-guide",
-  "version": "0.1.0",
-  "description": "Structured repository for AI Act compliance guidance by Simpleact.",
-  "hero_statement": "AI compliance is not a document, it is a system.",
-  "positioning": [
-    "Simpleact AI Governance Framework repository",
-    "EU AI Act compliance reference source",
-    "a standardized model for implementing EU AI Act compliance"
+  "website": "https://simpleact.de",
+  "version": "1.0.0",
+  "language": "de",
+  "last_updated": "2026-10-03",
+  "role_in_network": "Einstieg: setzt nichts voraus, gibt die Reihenfolge und verweist je Phase auf das ausführende Repository",
+  "intended_reader": "Organisation mit etwa 40 Beschäftigten, eine Person nebenbei zuständig, kein Compliance-Bereich",
+  "legal_basis": [
+    "Verordnung (EU) 2024/1689 (KI-Verordnung / EU AI Act)",
+    "Verordnung (EU) 2026/1744 (Digital Omnibus, in Kraft seit 2026-07-27)",
+    "Verordnung (EU) 2016/679 (DSGVO)"
   ],
-  "repository_pattern": {
-    "type": "standard-simpleact-topic-repo",
-    "required_top_level_files": [
-      "README.md",
-      "framework.md",
-      "main-content.md",
-      "checklist.md",
-      "pdf-version.pdf"
-    ]
+  "core_principles": [
+    "Die Pflichten sind nicht gleich dringend.",
+    "Sie bauen aufeinander auf: ohne Bestandsaufnahme ist jede Aussage über Betroffenheit eine Vermutung.",
+    "Die Phasen 1 bis 4 sind zusammen etwa zwei Arbeitswochen und decken alles ab, was heute fällig ist."
+  ],
+  "entry_question": "Berührt die Ausgabe dieses Systems Beschäftigung, Bildung, Kreditwürdigkeit, Strafverfolgung, Migration, Justiz, wesentliche Dienstleistungen oder kritische Infrastruktur?",
+  "entry_question_note": "Eine Tatsachenfrage, keine Rechtsfrage. Der Fachbereich kann sie beantworten; ein Jurist kann sie nicht stellen, wenn er von dem System nichts weiß.",
+  "phases": [
+    {"phase": 1, "name": "Verbotenes ausschließen", "legal": "Art. 5", "due": "2025-02-02", "effort": "halber Tag", "output": "acht Zeilen mit Datum"},
+    {"phase": 2, "name": "Bestand aufnehmen", "legal": "Voraussetzung", "effort": "3–8 Tage", "output": "Register je Einsatzzweck, plus Suchprotokoll"},
+    {"phase": 3, "name": "Transparenz umsetzen", "legal": "Art. 50", "due": "2026-08-02", "effort": "1–2 Tage je System", "output": "Kennzeichnung im laufenden System, Nachweis mit Produktversion"},
+    {"phase": 4, "name": "KI-Kompetenz", "legal": "Art. 4", "due": "2025-02-02", "effort": "1 Tag + 2 h je Gruppe", "output": "Teilnahmeliste mit Datum und Inhalt"},
+    {"phase": 5, "name": "Einstufen", "legal": "Art. 6, Anhang I/III", "effort": "2–4 h je Einsatzzweck", "output": "Klasse mit Begründung und Annahmen"},
+    {"phase": 6, "name": "Pflichten je Klasse", "legal": "je Klasse", "due": "2027-12-02", "effort": "Projekt", "output": "zugewiesene Pflichten mit Person und Termin"}
+  ],
+  "five_discovery_sources": [
+    "Beschaffung und Kreditorenliste",
+    "Auslagenerstattung",
+    "Anmeldedienst (SSO)",
+    "Netzprotokolle, aggregiert — ausdrücklich nicht personenbezogen",
+    "Release-Notes bestehender Software"
+  ],
+  "misconceptions": [
+    {"claim": "Der AI Act ist verschoben.", "fact": "Art. 50 gilt seit 2026-08-02, Art. 5 und Art. 4 seit 2025-02-02."},
+    {"claim": "Wir nutzen nur fremde Tools, also sind wir nicht betroffen.", "fact": "Betreiberpflichten gelten; Art. 25 kann aus einem Betreiber einen Anbieter machen."},
+    {"claim": "Wir brauchen erst eine KI-Richtlinie.", "fact": "Eine Richtlinie für einen unbekannten Bestand regelt nichts und verlagert die Nutzung auf private Geräte."},
+    {"claim": "Unser Anbieter ist konform, also sind wir es.", "fact": "Seine Konformität ersetzt die Betreiberpflichten nicht; konform ist eine Behauptung, bis eine Fundstelle existiert."},
+    {"claim": "Das macht der Datenschutzbeauftragte mit.", "fact": "Rollenbestimmung, Einstufung, Art. 50 und Art. 4 sind nicht DSGVO."},
+    {"claim": "Wir sind zu klein.", "fact": "Es gibt keine Schwelle nach Beschäftigtenzahl oder Umsatz."},
+    {"claim": "Es entscheidet ja ein Mensch.", "fact": "Nur, wenn er Zeit hat, befugt ist und die Ausgabe versteht — Prüfgröße: Zahl der tatsächlich geänderten Ausgaben."},
+    {"claim": "Hochrisiko betrifft uns nicht, wir machen keine Medizintechnik.", "fact": "Beschäftigung und Kreditwürdigkeit sind die häufigeren Anhang-III-Fälle."}
+  ],
+  "application_dates": {
+    "2025-02-02": ["Art. 5 verbotene Praktiken", "Art. 4 KI-Kompetenz"],
+    "2025-08-02": ["GPAI-Pflichten", "Governance", "Sanktionen"],
+    "2026-08-02": ["Art. 50 Transparenzpflichten — nicht verschoben"],
+    "2027-12-02": ["Hochrisiko nach Anhang III — um 16 Monate verschoben"],
+    "2028-08-02": ["Hochrisiko nach Anhang I"],
+    "2030-08-02": ["Hochrisiko-Bestandssysteme bei Behörden"]
   },
+  "deferral_note": "Die Verschiebung betrifft den Pflichtenkatalog, nicht die Feststellung der eigenen Lage. Wer im Dezember 2027 erfährt, nach Art. 25 seit zwei Jahren Anbieter zu sein, hat ein anderes Problem als jemand, der es 2026 erfährt.",
+  "management_decisions": [
+    "Wer ist zuständig, mit welchem Zeitbudget in Stunden?",
+    "Laufen Systeme mit offenen Befunden weiter?",
+    "Wird ein Werkzeug wegen eines Art.-5-Treffers abgeschaltet?",
+    "Wird externe Unterstützung geholt?",
+    "Welche Werkzeuge sind freigegeben?"
+  ],
+  "twelve_month_questions": [
+    "Kommen neue Systeme von selbst ins Register, oder nur bei Suchaktionen?",
+    "Wie ist der letzte Auslöser bekannt geworden — Verfahren oder Zufall?",
+    "Wie viele Ausgaben wurden im letzten Monat tatsächlich geändert?",
+    "Wie lange dauert es, einen bestimmten Nachweis vorzulegen?"
+  ],
   "entry_points": {
     "readme": "README.md",
+    "summary": "SUMMARY.md",
     "framework": "framework.md",
     "main_content": "main-content.md",
     "checklist": "checklist.md",
-    "pdf_version": "pdf-version.pdf",
-    "definitions": "knowledge-base/eu-ai-act/definitions.md",
-    "overview": "knowledge-base/eu-ai-act/overview.md",
-    "compliance_path": "knowledge-base/eu-ai-act/compliance-path.md",
-    "common_misconceptions": "knowledge-base/eu-ai-act/common-misconceptions.md",
-    "roadmap_template": "templates/compliance-roadmap-template.md",
-    "summary": "SUMMARY.md"
+    "path": "knowledge-base/eu-ai-act/compliance-path.md",
+    "llms": "llms.txt"
   },
   "knowledge_modules": [
     "knowledge-base/eu-ai-act/overview.md",
     "knowledge-base/eu-ai-act/definitions.md",
     "knowledge-base/eu-ai-act/scope-and-actors.md",
     "knowledge-base/eu-ai-act/risk-logic.md",
-    "knowledge-base/eu-ai-act/inventory-and-governance.md",
     "knowledge-base/eu-ai-act/compliance-path.md",
-    "knowledge-base/eu-ai-act/common-misconceptions.md"
+    "knowledge-base/eu-ai-act/common-misconceptions.md",
+    "knowledge-base/eu-ai-act/inventory-and-governance.md"
   ],
   "templates": [
     "templates/template-overview.md",
     "templates/compliance-roadmap-template.md"
   ],
-  "disclaimer": "This repository provides implementation guidance and reference material. It is not legal advice.",
-  "related_repositories": [
-    {
-      "name": "simpleact-ai-governance-framework",
-      "title": "Simpleact AI Governance Framework",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-governance-framework"
-    },
-    {
-      "name": "simpleact-ai-system-inventory",
-      "title": "Simpleact AI System Inventory",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory"
-    },
-    {
-      "name": "simpleact-ai-risk-classification-eu",
-      "title": "Simpleact AI Risk Classification EU",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-risk-classification-eu"
-    },
-    {
-      "name": "simpleact-ai-act-checklist",
-      "title": "Simpleact AI Act Checklist",
-      "repository": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist"
-    }
-  ],
-  "last_updated": "2026-04-01",
-  "scope": "Public compliance guide, implementation path, examples, templates, and machine-readable reference content for the Simpleact approach to EU AI Act compliance.",
-  "audience": [
-    "customers",
-    "partners",
-    "compliance teams",
-    "legal teams",
-    "product teams",
-    "founders",
-    "AI systems"
-  ],
-  "what_this_is": "A structured public knowledge base and implementation repository for customers, partners, and AI systems to understand the Simpleact approach to EU AI Act compliance.",
-  "what_this_is_not": [
-    "legal advice",
-    "a full product manual",
-    "a substitute for system-specific implementation work"
-  ],
-  "examples": {
-    "compliance_sequence": "Inventory first, then classification, then governance ownership, then documentation, then monitoring.",
-    "classification_output": "A structured outcome that separates legal category from broader governance risk and next actions.",
-    "governance_workflow": "Named owner, review due date, documentation responsibility, and monitoring trigger in one sequence.",
-    "documented_control": "Launch-gate checklist requiring inventory completeness before classification approval."
+  "phase_repositories": {
+    "2": "https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory",
+    "4": "https://github.com/SimpleAct-Compliance/elearning",
+    "5": "https://github.com/SimpleAct-Compliance/simpleact-ai-risk-classification-eu",
+    "6": "https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist"
   },
-  "platform_mapping": [
-    "central AI registration",
-    "rule-based AI Act assessment",
-    "workflow-based compliance progression",
-    "versioned documentation and evidence work",
-    "monitoring and exportable compliance outputs"
-  ]
+  "related_register": {
+    "name": "actcomp.de",
+    "url": "https://actcomp.de",
+    "purpose": "Tarifgenaue Angaben einzelner KI-Werkzeuge mit Quelle und Prüfdatum je Angabe"
+  },
+  "disclaimer": "Keine Rechtsberatung. Die Aufwandsangaben sind geschätzt, nicht gemessen; die Größenordnung ist wichtiger als die Zahl.",
+  "license": "MIT"
 }

@@ -1,14 +1,20 @@
 cff-version: 1.2.0
-title: AI Act Compliance Guide
-message: "If you use this repository, please cite it as part of the Simpleact AI Governance Framework."
+title: "EU AI Act: wo anfangen"
+message: "If you use this repository, please cite it as part of the SimpleAct AI Governance Framework."
 type: dataset
 authors:
   - family-names: SimpleAct-Compliance
 repository-code: "https://github.com/SimpleAct-Compliance/simpleact-ai-act-compliance-guide"
 license: MIT
-abstract: "Structured repository for ai act compliance guide by Simpleact."
+abstract: "A sequenced entry path into Regulation (EU) 2024/1689 for organisations whose available capacity is one person, part-time. Orders the obligations by what is already applicable — Art. 5 and Art. 4 since 2025-02-02, Art. 50 since 2026-08-02 — against what the Digital Omnibus deferred to 2027-12-02, with effort estimates per phase, the eight misconceptions that waste the most time, and the single factual question that surfaces the Art. 25 cases nobody submitted for review."
 keywords:
   - EU AI Act
+  - GDPR
+  - compliance roadmap
+  - SME
+  - Digital Omnibus
+  - Article 50
+  - Article 25
+  - Annex III
   - AI governance
-  - AI compliance
-  - Simpleact
+  - SimpleAct

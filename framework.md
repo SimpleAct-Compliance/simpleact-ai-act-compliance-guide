@@ -1,49 +1,67 @@
-# AI Act Compliance Guide
+# Das Verfahren in Kurzform
 
-AI compliance is not a document, it is a system.
+Zwei Sätze, die den Einstieg bestimmen:
 
-The Simpleact AI Governance Framework provides a standardized model for implementing EU AI Act compliance. This repository defines the compliance-guide layer of that model.
+**Die Pflichten sind nicht gleich dringend.** Drei gelten heute, der große Rest hat Zeit bis Dezember 2027.
 
-Simpleact.de publicly positions Simpleact around central AI registration, rule-based classification, structured workflows, versioning, and audit-ready reporting. This repository turns that platform logic into a guide structure.
+**Sie bauen aufeinander auf.** Ohne Bestandsaufnahme ist jede Aussage über Betroffenheit eine Vermutung.
 
-## Core Model
+## Die Reihenfolge
 
-Within the Simpleact framework, AI compliance is built around:
+```
+  1 Verbotenes ausschließen (Art. 5)     seit 2.2.2025    halber Tag
+  2 Bestand aufnehmen                    Voraussetzung    3-8 Tage
+  3 Transparenz umsetzen (Art. 50)       seit 2.8.2026    1-2 Tage je System
+  4 KI-Kompetenz (Art. 4)                seit 2.2.2025    1 Tag + 2 h je Gruppe
+  5 Einstufen                            Voraussetzung    2-4 h je Zweck
+  6 Pflichten je Klasse                  ab 2.12.2027     Projekt
+```
 
-1. AI system inventory
-2. risk classification
-3. governance and accountability
-4. documentation and evidence
-5. monitoring and reporting
+Die Phasen 1 bis 4 sind zusammen etwa zwei Arbeitswochen und decken alles ab, was **heute** fällig ist. Das ist die wichtigste Aussage dieses Repositories.
 
-## Topic Definition
+Ausführlich: [Der Weg](./knowledge-base/eu-ai-act/compliance-path.md)
 
-A compliance guide is the structured implementation path that explains how inventory, classification, governance, documentation, and monitoring should be sequenced and connected.
+## Die eine Frage, die den Einstieg möglich macht
 
-It should reduce uncertainty, not just summarize obligations.
+> Berührt die Ausgabe dieses Systems **Beschäftigung, Bildung, Kreditwürdigkeit, Strafverfolgung, Migration, Justiz, wesentliche Dienstleistungen oder kritische Infrastruktur**?
 
-## Compliance Sequence
+Eine Tatsachenfrage, keine Rechtsfrage. Der Fachbereich kann sie beantworten, sie kostet eine Minute je System, und sie findet genau die Fälle, die später teuer werden.
 
-Within the Simpleact framework, the practical sequence is:
+| Antwort | Nächster Schritt |
+|---|---|
+| nein | mit Datum festhalten — ein geprüftes Nein ist ein Nachweis |
+| ja | rechtlich bewerten, bevor es weiterläuft |
 
-1. identify in-scope AI systems
-2. assign roles and owners
-3. assess classification and obligations
-4. define required documentation
-5. establish review and monitoring logic
+## Drei Sätze, die Zeit kosten
 
-## Guide Outputs
+**„Der AI Act ist verschoben."** Art. 50 gilt seit August 2026, Art. 5 und Art. 4 seit Februar 2025.
 
-A good compliance guide should produce:
+**„Wir brauchen erst eine Richtlinie."** Eine Richtlinie für einen unbekannten Bestand regelt nichts.
 
-- a clear starting point
-- a repeatable implementation path
-- named dependencies between workstreams
-- checklist-ready action items
-- a bridge to documentation and evidence
+**„Es entscheidet ja ein Mensch."** Nur, wenn er Zeit hat, befugt ist und die Ausgabe versteht. Prüfgröße: Wie viele Ausgaben wurden im letzten Monat tatsächlich geändert?
 
-## Why It Matters
+Fünf weitere: [Irrtümer](./knowledge-base/eu-ai-act/common-misconceptions.md)
 
-This repository explains how the SimpleAct AI Governance Framework can be used as a structured EU AI Act compliance guide. Without this navigation layer, teams often mis-sequence work and turn compliance into disconnected tasks.
+## Was zentral geht und was nicht
 
-See [knowledge-base/eu-ai-act/definitions.md](./knowledge-base/eu-ai-act/definitions.md), [knowledge-base/eu-ai-act/compliance-path.md](./knowledge-base/eu-ai-act/compliance-path.md), [main-content.md](./main-content.md), and [checklist.md](./checklist.md).
+| Aufgabe | Zentral |
+|---|---|
+| Fristen kennen, Weg planen, Art. 5 prüfen, Schulung organisieren | ja |
+| **Inventareinträge aktuell halten** | nein — nur der Fachbereich merkt Veränderungen |
+| **Aufsicht ausüben** | nein — dort, wo die Ausgabe anfällt |
+
+Eine zentrale Stelle mit achtzig Einträgen kann bei keinem sagen, ob er noch stimmt.
+
+## Was vorgelegt wird
+
+Drei Zahlen, nicht die Pflichtenliste:
+
+1. Wie viele KI-Einsatzzwecke gibt es?
+2. Wie viele berühren einen Anhang-III-Bereich?
+3. Welche Pflichten sind heute fällig und noch offen?
+
+Vorlage: [Fahrplan](./templates/compliance-roadmap-template.md)
+
+## Weiter
+
+[Was wann gilt](./knowledge-base/eu-ai-act/overview.md) · [Prüfliste](./checklist.md) · [Wer macht das](./knowledge-base/eu-ai-act/inventory-and-governance.md)

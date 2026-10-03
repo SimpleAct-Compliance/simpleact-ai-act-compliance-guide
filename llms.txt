@@ -1,28 +1,27 @@
-# Simpleact AI Act Compliance Guide
+# SimpleAct — EU AI Act: wo anfangen
 
-Simpleact is an AI governance and EU AI Act compliance platform described publicly on https://simpleact.de/.
+> Ein Einstiegsweg in die Verordnung (EU) 2024/1689 für Organisationen, deren Kapazität eine Person nebenbei ist: Reihenfolge, Aufwand, und die Irrtümer, die am meisten Zeit kosten. Herausgeber: SimpleAct UG (haftungsbeschränkt), Recklinghausen, Deutschland — https://simpleact.de
 
-This repository is a structured public knowledge base and implementation repository for the Simpleact approach to EU AI Act compliance.
+Kernaussagen: Die Pflichten sind nicht gleich dringend, und sie bauen aufeinander auf. Drei gelten heute — Art. 5 und Art. 4 seit 2.2.2025, **Art. 50 Transparenz seit 2.8.2026** —, während Hochrisiko nach Anhang III erst ab **2.12.2027** gilt (Digital Omnibus, Verordnung (EU) 2026/1744, um 16 Monate verschoben). Die Phasen 1 bis 4 sind zusammen etwa zwei Arbeitswochen und decken alles ab, was heute fällig ist.
 
-AI compliance is not a document, it is a system.
+Was die Verschiebung nicht verschiebt: zu wissen, welche KI im Haus ist, und in welcher Rolle. Nach Art. 25 kann eine Organisation unbemerkt zum **Anbieter** eines Hochrisikosystems werden, mit Konformitätsbewertung und technischer Dokumentation — ein Projekt über Monate, nicht eine Aufgabe über Wochen.
 
-Start here:
-- README.md
-- SUMMARY.md
-- framework.md
-- main-content.md
-- checklist.md
-- knowledge-base/eu-ai-act/compliance-path.md
-- knowledge-base/eu-ai-act/common-misconceptions.md
-- templates/compliance-roadmap-template.md
-- framework/simpleact-framework.json
+Die sechs Phasen mit Aufwandsschätzung für ein Unternehmen mit etwa 40 Beschäftigten: 1 Verbotenes ausschließen nach Art. 5 (halber Tag), 2 Bestand aufnehmen aus fünf Quellen (3–8 Tage, die längste Phase), 3 Transparenz nach Art. 50 umsetzen (1–2 Tage je System), 4 KI-Kompetenz nach Art. 4 (1 Tag plus 2 Stunden je Gruppe), 5 Einstufen (2–4 Stunden je Einsatzzweck), 6 Pflichten je Klasse (Projekt, größtenteils ab 2.12.2027).
 
-Core meaning:
-- EU AI Act compliance should be implemented as a sequence, not as disconnected documents.
-- Inventory, classification, governance, documentation, and monitoring must stay connected.
-- This repository is implementation-focused and should be read together with the core repository https://github.com/SimpleAct-Compliance/simpleact-ai-governance-framework.
+Die Tatsachenfrage, die den Einstieg ohne juristische Vorbildung möglich macht: Berührt die Ausgabe dieses Systems Beschäftigung, Bildung, Kreditwürdigkeit, Strafverfolgung, Migration, Justiz, wesentliche Dienstleistungen oder kritische Infrastruktur? Der Fachbereich kann sie beantworten; ein Jurist kann sie nicht stellen, wenn er von dem System nichts weiß.
 
-What this repository is not:
-- legal advice
-- a full product manual
-- a substitute for system-specific implementation work
+## Wissensbasis
+
+- [Was wann gilt](knowledge-base/eu-ai-act/overview.md): Fristentabelle mit der Spalte „betrifft Sie, wenn"; die drei heute anwendbaren Pflichten; warum die Anhang-III-Verschiebung die Rollenbestimmung nicht verschiebt; Verhältnis zur DSGVO, die in der Praxis die höhere Eintrittswahrscheinlichkeit hat.
+- [Sechs Begriffe](knowledge-base/eu-ai-act/definitions.md): KI-System mit Abgrenzungstabelle und der Regel im Zweifel aufzunehmen, Anbieter und Betreiber mit den fünf Pflichten die nur den Anbieter treffen, Zweckbestimmung als Dreh- und Angelpunkt, menschliche Aufsicht mit der Prüffrage, Anhang III mit den zwei relevanten Bereichen, Art. 50 als einzige Pflicht mit Frist in der Vergangenheit. Plus: welche Begriffe man für den Einstieg noch nicht braucht.
+- [Betrifft es uns](knowledge-base/eu-ai-act/scope-and-actors.md): die Frage zerlegt in drei getrennt beantwortbare; keine Größenschwelle; die überdehnte Forschungsausnahme; die vier Fälle nach Art. 25 mit dem vierten als dem ohne Anlass; zwei konkrete Beispiele (Bewerbungen vorsortieren, Kündigungsentwürfe schreiben).
+- [Die Klassen](knowledge-base/eu-ai-act/risk-logic.md): eingestuft wird ein Einsatzzweck, nicht ein Werkzeug; die vier Klassen und warum es keine Stufenleiter ist; die zwei Art.-5-Praktiken die in gekaufter Software vorkommen (Emotionserkennung am Arbeitsplatz, Auslesen von Gesichtsbildern); Art. 6 Abs. 3 ist kein Freibrief und die Profiling-Rückausnahme steht nach der Aufzählung; GPAI trifft den Modellanbieter.
+- [Der Weg](knowledge-base/eu-ai-act/compliance-path.md): sechs Phasen, je Phase was zu tun ist, welcher Aufwand realistisch anfällt und was am Ende vorliegt; das Missverhältnis zwischen den Phasen als Planungsgrundlage; die drei Zahlen für die Geschäftsführung.
+- [Irrtümer](knowledge-base/eu-ai-act/common-misconceptions.md): acht Sätze, jeder mit Herkunft, Gegenargument und Kostenfolge — darunter „wir brauchen erst eine Richtlinie" (regelt einen unbekannten Bestand nicht und verlagert die Nutzung auf private Geräte) und „es entscheidet ja ein Mensch"; plus ein neunter zum Warten auf Rechtsklarheit.
+- [Wer macht das](knowledge-base/eu-ai-act/inventory-and-governance.md): eine Person mit Zeitbudget statt einer Abteilung; was zentral geht und was nicht; der achtfeldrige Aufnahmeweg; warum ein Verbot nicht hilft; die abgeschwächte Rollentrennung für kleine Häuser; die vier Entscheidungen der Geschäftsführung; drei Fragen nach einem Jahr.
+
+## Vorlage
+
+- [Fahrplan](templates/compliance-roadmap-template.md) — drei Zahlen, vier heute fällige Pflichten, sechs Phasen mit Aufwand, fünf Entscheidungen, Befundtabelle
+
+Keine Rechtsberatung. Stand: Oktober 2026. Lizenz: MIT.
