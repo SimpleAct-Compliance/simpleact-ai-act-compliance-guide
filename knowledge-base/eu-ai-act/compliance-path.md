@@ -10,7 +10,7 @@ Die Aufwandsangaben gelten für ein Unternehmen mit etwa 40 Beschäftigten und e
 
 **Warum zuerst:** Art. 5 gilt seit **2.2.2025**, und ein Treffer macht alles Weitere gegenstandslos — ein Verbot lässt sich nicht durch Dokumentation heilen. Die Phase ist außerdem kurz.
 
-**Was zu tun ist:** Die acht verbotenen Praktiken einmal durchgehen. Nicht aus dem Gedächtnis, sondern an den eingesetzten Werkzeugen.
+**Was zu tun ist:** Die zehn verbotenen Praktiken einmal durchgehen. Nicht aus dem Gedächtnis, sondern an den eingesetzten Werkzeugen.
 
 Die beiden, die in gekaufter Software vorkommen und deshalb konkret zu prüfen sind:
 
@@ -62,9 +62,9 @@ Ausführlich: [KI-Inventar](https://github.com/SimpleAct-Compliance/simpleact-ai
 
 ## Phase 4: KI-Kompetenz
 
-**Warum hier:** Art. 4 gilt seit **2.2.2025** und braucht keine Risikoklasse. Und sie ist Voraussetzung für Phase 6: Eine menschliche Aufsicht, die nicht versteht, wie ein Modell irrt, ist keine Aufsicht.
+**Warum hier:** Art. 4 gilt seit **2.2.2025** und braucht keine Risikoklasse — seit 27.7.2026 in der neu gefassten, schwächeren Form: **Maßnahmen zur Förderung** der KI-Kompetenz ergreifen, statt ein Niveau je Person sicherzustellen. Rechtlich ist weniger verlangt; praktisch bleibt die Phase Voraussetzung für Phase 6, weil eine menschliche Aufsicht, die nicht versteht, wie ein Modell irrt, keine Aufsicht ist.
 
-**Was zu tun ist:** Festhalten, wer welches System bedient und beaufsichtigt, und diese Leute **systembezogen** schulen. Eine allgemeine KI-Schulung erfüllt den Punkt nicht.
+**Was zu tun ist:** Festhalten, wer welches System bedient und beaufsichtigt, und für diese Leute Maßnahmen ergreifen — in der Praxis: **systembezogen** schulen. Die Verordnung schreibt die Form nicht vor; Schulung mit Teilnahmeliste ist der Nachweis, der sich vorlegen lässt. Eine allgemeine KI-Schulung sagt über das eingesetzte System nichts.
 
 Was eine brauchbare Schulung vermittelt:
 

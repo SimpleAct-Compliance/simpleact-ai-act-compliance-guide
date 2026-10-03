@@ -12,6 +12,7 @@ Nach dem **Digital Omnibus** (Verordnung (EU) 2026/1744, in Kraft seit 27.7.2026
 | 2.2.2025 | **Art. 4 KI-Kompetenz** | Sie überhaupt KI einsetzen |
 | 2.8.2025 | GPAI-Pflichten, Governance, Sanktionen | Sie ein Modell anbieten |
 | **2.8.2026** | **Art. 50 Transparenz** | Sie Chatbots betreiben oder Inhalte erzeugen |
+| 2.12.2026 | Zwei neue verbotene Praktiken nach Art. 5 (intime Darstellungen ohne Einwilligung, Missbrauchsdarstellungen); Ende der Art.-50-Abs.-2-Übergangsfrist für Bestandssysteme  | |
 | 2.12.2027 | Hochrisiko nach Anhang III | Ihr Einsatz einen der acht Bereiche berührt |
 | 2.8.2028 | Hochrisiko nach Anhang I | Ihr System Teil eines CE-Produkts ist |
 | 2.8.2030 | Bestandssysteme bei Behörden | Sie eine öffentliche Stelle sind |
@@ -20,9 +21,9 @@ Die rechte Spalte ist der Punkt. Drei der sieben Zeilen betreffen fast jedes Unt
 
 ## Die drei, die heute gelten
 
-**Art. 5 — nichts Verbotenes betreiben.** Acht Praktiken. Die beiden, die in gekaufter Software vorkommen: Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen, und das ungezielte Auslesen von Gesichtsbildern. Einmal prüfen, Ergebnis notieren.
+**Art. 5 — nichts Verbotenes betreiben.** Zehn Praktiken. Die beiden, die in gekaufter Software vorkommen: Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen, und das ungezielte Auslesen von Gesichtsbildern. Einmal prüfen, Ergebnis notieren.
 
-**Art. 4 — KI-Kompetenz.** Keine Risikoklasse nötig, keine Schwelle nach Unternehmensgröße. Wer KI einsetzt, muss die Leute, die sie bedienen, dafür befähigen — systembezogen, nicht als allgemeine KI-Schulung.
+**Art. 4 — KI-Kompetenz.** Keine Risikoklasse nötig, keine Schwelle nach Unternehmensgröße. Verlangt sind **Maßnahmen zur Förderung** der KI-Kompetenz derjenigen, die die Systeme bedienen. Der Digital Omnibus hat die Vorschrift zum 27.7.2026 abgeschwächt: Ein bestimmtes Niveau je Person muss nicht mehr sichergestellt werden. Systembezogene Schulung bleibt der praktische Nachweis — eine allgemeine KI-Schulung sagt über das eingesetzte System nichts.
 
 **Art. 50 — Transparenz.** Seit August 2026. Chatbots, erzeugte Inhalte, Emotionserkennung, Deepfakes. Technisch meist klein, und fast überall übersehen, weil die Aufmerksamkeit bei Hochrisiko liegt.
 

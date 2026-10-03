@@ -35,7 +35,7 @@ Wer bei Schritt 4 anfängt, prüft das Falsche zuerst: Spricht Schritt 3 an, ist
 
 ## Art. 5: die beiden, die man wirklich prüfen muss
 
-Acht Praktiken sind verboten. Sechs klingen exotisch und sind es in einem gewöhnlichen Unternehmen meist auch. Zwei nicht:
+Zehn Praktiken sind verboten. Sechs klingen exotisch und sind es in einem gewöhnlichen Unternehmen meist auch. Zwei nicht:
 
 **Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen.** Funktionen, die Gespräche nach Stimmung auswerten — in Analysewerkzeugen für Vertrieb und Personal durchaus verbreitet. Am Arbeitsplatz ist das **verboten**, nicht reguliert.
 

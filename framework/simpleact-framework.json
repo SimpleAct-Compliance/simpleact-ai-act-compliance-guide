@@ -23,7 +23,7 @@
   "entry_question": "Berührt die Ausgabe dieses Systems Beschäftigung, Bildung, Kreditwürdigkeit, Strafverfolgung, Migration, Justiz, wesentliche Dienstleistungen oder kritische Infrastruktur?",
   "entry_question_note": "Eine Tatsachenfrage, keine Rechtsfrage. Der Fachbereich kann sie beantworten; ein Jurist kann sie nicht stellen, wenn er von dem System nichts weiß.",
   "phases": [
-    {"phase": 1, "name": "Verbotenes ausschließen", "legal": "Art. 5", "due": "2025-02-02", "effort": "halber Tag", "output": "acht Zeilen mit Datum"},
+    {"phase": 1, "name": "Verbotenes ausschließen", "legal": "Art. 5", "due": "2025-02-02", "effort": "halber Tag", "output": "zehn Zeilen mit Datum"},
     {"phase": 2, "name": "Bestand aufnehmen", "legal": "Voraussetzung", "effort": "3–8 Tage", "output": "Register je Einsatzzweck, plus Suchprotokoll"},
     {"phase": 3, "name": "Transparenz umsetzen", "legal": "Art. 50", "due": "2026-08-02", "effort": "1–2 Tage je System", "output": "Kennzeichnung im laufenden System, Nachweis mit Produktversion"},
     {"phase": 4, "name": "KI-Kompetenz", "legal": "Art. 4", "due": "2025-02-02", "effort": "1 Tag + 2 h je Gruppe", "output": "Teilnahmeliste mit Datum und Inhalt"},
@@ -51,6 +51,7 @@
     "2025-02-02": ["Art. 5 verbotene Praktiken", "Art. 4 KI-Kompetenz"],
     "2025-08-02": ["GPAI-Pflichten", "Governance", "Sanktionen"],
     "2026-08-02": ["Art. 50 Transparenzpflichten — nicht verschoben"],
+    "2026-12-02": ["Zwei neue verbotene Praktiken nach Art. 5 (Buchst. ba und bb)", "Ende der Übergangsfrist für die Markierung nach Art. 50 Abs. 2 bei Bestandssystemen"],
     "2027-12-02": ["Hochrisiko nach Anhang III — um 16 Monate verschoben"],
     "2028-08-02": ["Hochrisiko nach Anhang I"],
     "2030-08-02": ["Hochrisiko-Bestandssysteme bei Behörden"]

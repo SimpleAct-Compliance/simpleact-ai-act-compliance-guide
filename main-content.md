@@ -20,13 +20,13 @@ Was die Verschiebung nicht verschiebt, sind die zwei Schritte davor: zu wissen, 
 
 ## Die sechs Phasen
 
-**1 Verbotenes ausschließen.** Art. 5, acht Praktiken, an den tatsächlich eingesetzten Werkzeugen durchgehen. Die beiden, die in gekaufter Software vorkommen: Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen, und ungezieltes Auslesen von Gesichtsbildern. Eine Funktion, die Gespräche nach Stimmung auswertet, ist Emotionserkennung — am Arbeitsplatz verboten, nicht reguliert. Aufwand: ein halber Tag. Ergebnis: acht Zeilen mit Datum.
+**1 Verbotenes ausschließen.** Art. 5, zehn Praktiken, an den tatsächlich eingesetzten Werkzeugen durchgehen. Die beiden, die in gekaufter Software vorkommen: Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen, und ungezieltes Auslesen von Gesichtsbildern. Eine Funktion, die Gespräche nach Stimmung auswertet, ist Emotionserkennung — am Arbeitsplatz verboten, nicht reguliert. Aufwand: ein halber Tag. Ergebnis: zehn Zeilen mit Datum.
 
 **2 Bestand aufnehmen.** Aus fünf Quellen suchen, nicht fragen: Beschaffung und Kreditorenliste, Auslagenerstattung, Anmeldedienst, aggregierte Netzprotokolle, Release-Notes bestehender Software. Die letzte liefert den häufigsten Fall: Ein CRM bekommt eine Zusammenfassungsfunktion, und ab diesem Release verarbeitet ein KI-System Kundendaten, ohne dass ein Projekt existiert. Aufwand: 3 bis 8 Tage. Ergebnis: ein Register mit einem Eintrag je Einsatzzweck, und ein Suchprotokoll — letzteres ist in einer Prüfung wichtiger als die Vollständigkeit selbst, weil es belegt, dass gesucht wurde.
 
 **3 Transparenz umsetzen.** Art. 50, seit August 2026 anwendbar, technisch meist klein, fast überall übersehen. Hinweis bei direktem Kontakt, sichtbar vor der ersten Eingabe; maschinenlesbare Kennzeichnung erzeugter Inhalte. Nachweis je Fall mit Datum **und Produktversion** — ohne Version belegt eine Bildschirmaufnahme nur, dass es einmal so aussah.
 
-**4 KI-Kompetenz.** Art. 4, seit Februar 2025. Systembezogen schulen: wie dieses Modell irrt, woran man eine falsche Ausgabe erkennt, was man damit tun darf, was nicht hineingegeben werden darf. Eine allgemeine KI-Schulung erfüllt den Punkt nicht. Teilnahmeliste mit Datum und Inhaltsangabe — eine Liste ohne Inhalt belegt Anwesenheit, nicht Kompetenz.
+**4 KI-Kompetenz.** Art. 4, seit Februar 2025, seit 27.7.2026 in der schwächeren Neufassung: Maßnahmen zur Förderung der KI-Kompetenz ergreifen, statt ein Niveau je Person sicherzustellen. Praktisch heißt das systembezogen schulen: wie dieses Modell irrt, woran man eine falsche Ausgabe erkennt, was man damit tun darf, was nicht hineingegeben werden darf. Eine allgemeine KI-Schulung erfüllt den Punkt nicht. Teilnahmeliste mit Datum und Inhaltsangabe — eine Liste ohne Inhalt belegt Anwesenheit, nicht Kompetenz.
 
 **5 Einstufen.** Je Einsatzzweck, in dieser Reihenfolge: KI-System, Ausnahme, Art. 5, Anhang I/III, Art. 50. Dazu die Rollenfrage. Aufwand: 2 bis 4 Stunden je Einsatzzweck. Ergebnis: eine Klasse mit Begründung und Annahmen; das Annahmenfeld fehlt am häufigsten und ist in einer Prüfung das wertvollste.
 

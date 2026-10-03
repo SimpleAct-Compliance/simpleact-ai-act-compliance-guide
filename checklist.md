@@ -6,7 +6,7 @@ Ein Nein ist ein Befund. Es gehört mit Person und Termin in die Tabelle am Ende
 
 ## Phase 1 — Verbotenes ausschließen
 
-- [ ] Die acht verbotenen Praktiken nach **Art. 5** einmal durchgegangen, an den tatsächlich eingesetzten Werkzeugen
+- [ ] Die zehn verbotenen Praktiken nach **Art. 5** einmal durchgegangen, an den tatsächlich eingesetzten Werkzeugen
 - [ ] Besonders geprüft: **Emotionserkennung** in Analysefunktionen für Vertrieb, Personal oder Schulung
 - [ ] Besonders geprüft: **Auslesen von Gesichtsbildern** in Werkzeugen zur Personensuche oder Identitätsprüfung
 - [ ] Ergebnis je Praktik mit **Datum** notiert — das ist der Nachweis

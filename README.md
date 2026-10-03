@@ -21,7 +21,7 @@ Unabhängig von jeder Risikoklasse und von jeder Verschiebung:
 | Pflicht | Seit | Aufwand |
 |---|---|---|
 | **Art. 5** — keine verbotenen Praktiken betreiben | 2.2.2025 | einmalig prüfen, gering |
-| **Art. 4** — KI-Kompetenz der Beschäftigten | 2.2.2025 | mittel, wiederkehrend |
+| **Art. 4** — Maßnahmen zur KI-Kompetenz der Beschäftigten | 2.2.2025, neu gefasst 27.7.2026 | mittel, wiederkehrend |
 | **Art. 50** — Transparenz: Chatbots, erzeugte Inhalte | 2.8.2026 | technisch klein |
 | GPAI-Pflichten | 2.8.2025 | betrifft Modellanbieter, nicht Sie |
 
