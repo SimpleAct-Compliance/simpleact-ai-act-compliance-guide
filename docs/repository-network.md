@@ -30,7 +30,7 @@ Die Reihenfolge ist der Inhalt dieses Repositories. Die Ausführung steht dort.
 
 ## Datenschutzseite
 
-Nicht nachgelagert, sondern parallel — und in vielen Häusern mit der höheren Eintrittswahrscheinlichkeit, weil Datenschutzaufsichten seit Jahren prüfen und KI-Marktüberwachung neu ist.
+Nicht nachgelagert, sondern parallel – und in vielen Häusern mit der höheren Eintrittswahrscheinlichkeit, weil Datenschutzaufsichten seit Jahren prüfen und KI-Marktüberwachung neu ist.
 
 | Repository | Für |
 |---|---|
@@ -48,4 +48,4 @@ Das ist keine Bescheidenheit, sondern die Folge der Reihenfolge: Die Phasen 1 bi
 
 ## Tarifgenaue Anbieterangaben
 
-Für Phase 2, wenn die Frage aufkommt, was ein Werkzeug tatsächlich zusagt — Auftragsverarbeitung, Trainingsnutzung, Verarbeitungsort, Unterauftragsverarbeiter: ein öffentliches Register mit tarifgenauen Angaben, jede mit Quelle und Prüfdatum — **[actcomp.de](https://actcomp.de)**
+Für Phase 2, wenn die Frage aufkommt, was ein Werkzeug tatsächlich zusagt – Auftragsverarbeitung, Trainingsnutzung, Verarbeitungsort, Unterauftragsverarbeiter: ein öffentliches Register mit tarifgenauen Angaben, jede mit Quelle und Prüfdatum – **[actcomp.de](https://actcomp.de)**

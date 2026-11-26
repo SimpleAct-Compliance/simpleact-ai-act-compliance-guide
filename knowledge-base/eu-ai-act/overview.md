@@ -17,17 +17,17 @@ Nach dem **Digital Omnibus** (Verordnung (EU) 2026/1744, in Kraft seit 27.7.2026
 | 2.8.2028 | Hochrisiko nach Anhang I | Ihr System Teil eines CE-Produkts ist |
 | 2.8.2030 | Bestandssysteme bei Behörden | Sie eine öffentliche Stelle sind |
 
-Die rechte Spalte ist der Punkt. Drei der sieben Zeilen betreffen fast jedes Unternehmen, das KI einsetzt — und alle drei sind **heute** anwendbar.
+Die rechte Spalte ist der Punkt. Drei der sieben Zeilen betreffen fast jedes Unternehmen, das KI einsetzt – und alle drei sind **heute** anwendbar.
 
 ## Die drei, die heute gelten
 
-**Art. 5 — nichts Verbotenes betreiben.** Zehn Praktiken. Die beiden, die in gekaufter Software vorkommen: Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen, und das ungezielte Auslesen von Gesichtsbildern. Einmal prüfen, Ergebnis notieren.
+**Art. 5 – nichts Verbotenes betreiben.** Zehn Praktiken. Die beiden, die in gekaufter Software vorkommen: Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen, und das ungezielte Auslesen von Gesichtsbildern. Einmal prüfen, Ergebnis notieren.
 
-**Art. 4 — KI-Kompetenz.** Keine Risikoklasse nötig, keine Schwelle nach Unternehmensgröße. Verlangt sind **Maßnahmen zur Förderung** der KI-Kompetenz derjenigen, die die Systeme bedienen. Der Digital Omnibus hat die Vorschrift zum 27.7.2026 abgeschwächt: Ein bestimmtes Niveau je Person muss nicht mehr sichergestellt werden. Systembezogene Schulung bleibt der praktische Nachweis — eine allgemeine KI-Schulung sagt über das eingesetzte System nichts.
+**Art. 4 – KI-Kompetenz.** Keine Risikoklasse nötig, keine Schwelle nach Unternehmensgröße. Verlangt sind **Maßnahmen zur Förderung** der KI-Kompetenz derjenigen, die die Systeme bedienen. Der Digital Omnibus hat die Vorschrift zum 27.7.2026 abgeschwächt: Ein bestimmtes Niveau je Person muss nicht mehr sichergestellt werden. Systembezogene Schulung bleibt der praktische Nachweis – eine allgemeine KI-Schulung sagt über das eingesetzte System nichts.
 
-**Art. 50 — Transparenz.** Seit August 2026. Chatbots, erzeugte Inhalte, Emotionserkennung, Deepfakes. Technisch meist klein, und fast überall übersehen, weil die Aufmerksamkeit bei Hochrisiko liegt.
+**Art. 50 – Transparenz.** Seit August 2026. Chatbots, erzeugte Inhalte, Emotionserkennung, Deepfakes. Technisch meist klein, und fast überall übersehen, weil die Aufmerksamkeit bei Hochrisiko liegt.
 
-## Was die Verschiebung bedeutet — und was nicht
+## Was die Verschiebung bedeutet – und was nicht
 
 Anhang III ist um 16 Monate auf den 2.12.2027 verschoben. Das betrifft den **Pflichtenkatalog** für Hochrisikosysteme: Risikomanagement, technische Dokumentation, Konformitätsbewertung.
 
@@ -58,7 +58,7 @@ Keine Stufenleiter: Art. 50 kann neben Hochrisiko gelten, GPAI liegt auf einer e
 
 Sie läuft unverändert weiter. Wo ein KI-System personenbezogene Daten verarbeitet, gelten Verarbeitungsverzeichnis (Art. 30), Rechtsgrundlage (Art. 6), Betroffenenrechte und bei hohem Risiko eine Folgenabschätzung (Art. 35).
 
-Für die Planung ist eine Beobachtung wichtiger als die Rechtslage: **Datenschutzaufsichten prüfen seit Jahren, KI-Marktüberwachung ist neu.** Die DSGVO-Seite hat in vielen Häusern die höhere Eintrittswahrscheinlichkeit — und überschneidet sich stark mit Phase 2 des Wegs, weil beide dasselbe Register speisen.
+Für die Planung ist eine Beobachtung wichtiger als die Rechtslage: **Datenschutzaufsichten prüfen seit Jahren, KI-Marktüberwachung ist neu.** Die DSGVO-Seite hat in vielen Häusern die höhere Eintrittswahrscheinlichkeit – und überschneidet sich stark mit Phase 2 des Wegs, weil beide dasselbe Register speisen.
 
 ## Weiter
 

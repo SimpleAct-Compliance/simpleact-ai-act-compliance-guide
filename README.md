@@ -96,4 +96,4 @@ Alle Pflichten und Fristen als JSON, YAML und Kalenderdatei: [eu-ai-act-dataset]
 
 ## Stand und Lizenz
 
-Zuletzt aktualisiert: 2026-11-24 · MIT – frei nutzbar, auch kommerziell. Keine Rechtsberatung.
+Zuletzt aktualisiert: 2026-11-26 · MIT – frei nutzbar, auch kommerziell. Keine Rechtsberatung.

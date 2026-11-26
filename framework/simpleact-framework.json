@@ -34,7 +34,7 @@
     "Beschaffung und Kreditorenliste",
     "Auslagenerstattung",
     "Anmeldedienst (SSO)",
-    "Netzprotokolle, aggregiert — ausdrücklich nicht personenbezogen",
+    "Netzprotokolle, aggregiert – ausdrücklich nicht personenbezogen",
     "Release-Notes bestehender Software"
   ],
   "misconceptions": [
@@ -44,15 +44,15 @@
     {"claim": "Unser Anbieter ist konform, also sind wir es.", "fact": "Seine Konformität ersetzt die Betreiberpflichten nicht; konform ist eine Behauptung, bis eine Fundstelle existiert."},
     {"claim": "Das macht der Datenschutzbeauftragte mit.", "fact": "Rollenbestimmung, Einstufung, Art. 50 und Art. 4 sind nicht DSGVO."},
     {"claim": "Wir sind zu klein.", "fact": "Es gibt keine Schwelle nach Beschäftigtenzahl oder Umsatz."},
-    {"claim": "Es entscheidet ja ein Mensch.", "fact": "Nur, wenn er Zeit hat, befugt ist und die Ausgabe versteht — Prüfgröße: Zahl der tatsächlich geänderten Ausgaben."},
+    {"claim": "Es entscheidet ja ein Mensch.", "fact": "Nur, wenn er Zeit hat, befugt ist und die Ausgabe versteht – Prüfgröße: Zahl der tatsächlich geänderten Ausgaben."},
     {"claim": "Hochrisiko betrifft uns nicht, wir machen keine Medizintechnik.", "fact": "Beschäftigung und Kreditwürdigkeit sind die häufigeren Anhang-III-Fälle."}
   ],
   "application_dates": {
     "2025-02-02": ["Art. 5 verbotene Praktiken", "Art. 4 KI-Kompetenz"],
     "2025-08-02": ["GPAI-Pflichten", "Governance", "Sanktionen"],
-    "2026-08-02": ["Art. 50 Transparenzpflichten — nicht verschoben"],
+    "2026-08-02": ["Art. 50 Transparenzpflichten – nicht verschoben"],
     "2026-12-02": ["Zwei neue verbotene Praktiken nach Art. 5 (Buchst. ba und bb)", "Ende der Übergangsfrist für die Markierung nach Art. 50 Abs. 2 bei Bestandssystemen"],
-    "2027-12-02": ["Hochrisiko nach Anhang III — um 16 Monate verschoben"],
+    "2027-12-02": ["Hochrisiko nach Anhang III – um 16 Monate verschoben"],
     "2028-08-02": ["Hochrisiko nach Anhang I"],
     "2030-08-02": ["Hochrisiko-Bestandssysteme bei Behörden"]
   },
@@ -66,7 +66,7 @@
   ],
   "twelve_month_questions": [
     "Kommen neue Systeme von selbst ins Register, oder nur bei Suchaktionen?",
-    "Wie ist der letzte Auslöser bekannt geworden — Verfahren oder Zufall?",
+    "Wie ist der letzte Auslöser bekannt geworden – Verfahren oder Zufall?",
     "Wie viele Ausgaben wurden im letzten Monat tatsächlich geändert?",
     "Wie lange dauert es, einen bestimmten Nachweis vorzulegen?"
   ],

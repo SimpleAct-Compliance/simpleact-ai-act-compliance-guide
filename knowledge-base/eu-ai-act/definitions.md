@@ -34,9 +34,9 @@ Die meisten Unternehmen sind Betreiber. Die Pflichten unterscheiden sich erhebli
 
 Die Verwendung, für die ein System **vom Anbieter** vorgesehen ist.
 
-**Warum das der Dreh- und Angelpunkt ist:** Die Risikoklasse hängt daran, nicht am Modell. Und wenn Sie die Zweckbestimmung verlassen, kann sich Ihre Rolle verschieben — bis hin dazu, dass Sie nach **Art. 25** selbst Anbieter werden.
+**Warum das der Dreh- und Angelpunkt ist:** Die Risikoklasse hängt daran, nicht am Modell. Und wenn Sie die Zweckbestimmung verlassen, kann sich Ihre Rolle verschieben – bis hin dazu, dass Sie nach **Art. 25** selbst Anbieter werden.
 
-**Praktisch:** Zwei Angaben getrennt festhalten — was der Anbieter vorsieht, und was Sie tatsächlich tun. Weichen sie ab, ist das der Punkt, an dem jemand nachsehen muss. Dieser Fall ist häufiger als man denkt, weil die Betriebsanleitung meist niemand liest.
+**Praktisch:** Zwei Angaben getrennt festhalten – was der Anbieter vorsieht, und was Sie tatsächlich tun. Weichen sie ab, ist das der Punkt, an dem jemand nachsehen muss. Dieser Fall ist häufiger als man denkt, weil die Betriebsanleitung meist niemand liest.
 
 ## 4 Menschliche Aufsicht (Art. 14)
 
@@ -67,7 +67,7 @@ Sie ist eine Tatsachenfrage, keine Rechtsfrage. Der Fachbereich kann sie beantwo
 
 ## 6 Art. 50
 
-Die Transparenzpflichten. Anwendbar seit **2.8.2026** und **unabhängig** von der Risikoklasse — auch ein System mit minimalem Risiko kann darunter fallen.
+Die Transparenzpflichten. Anwendbar seit **2.8.2026** und **unabhängig** von der Risikoklasse – auch ein System mit minimalem Risiko kann darunter fallen.
 
 | Fall | Pflicht |
 |---|---|
@@ -82,7 +82,7 @@ Dieser Begriff steht hier unter den ersten sechs, obwohl er technisch der kleins
 
 ## Was man noch nicht braucht
 
-Für den Einstieg nicht nötig: wesentliche Änderung, Konformitätsbewertung, benannte Stelle, GPAI mit systemischem Risiko, Reallabor. Diese Begriffe kommen in Phase 5 und 6 des [Wegs](./compliance-path.md) — oder nie, wenn kein Hochrisikosystem im Haus ist.
+Für den Einstieg nicht nötig: wesentliche Änderung, Konformitätsbewertung, benannte Stelle, GPAI mit systemischem Risiko, Reallabor. Diese Begriffe kommen in Phase 5 und 6 des [Wegs](./compliance-path.md) – oder nie, wenn kein Hochrisikosystem im Haus ist.
 
 ## Weiter
 

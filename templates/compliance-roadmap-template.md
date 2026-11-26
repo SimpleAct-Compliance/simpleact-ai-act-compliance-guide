@@ -20,9 +20,9 @@ Die zweite Zeile ist die, auf die es in einer Geschäftsführungsvorlage ankommt
 
 | Pflicht | Anwendbar seit | Stand | Verantwortlich | Termin |
 |---|---|---|---|---|
-| Art. 5 — keine verbotenen Praktiken | 2.2.2025 | | | |
-| Art. 4 — KI-Kompetenz | 2.2.2025 | | | |
-| Art. 50 — Transparenz | 2.8.2026 | | | |
+| Art. 5 – keine verbotenen Praktiken | 2.2.2025 | | | |
+| Art. 4 – KI-Kompetenz | 2.2.2025 | | | |
+| Art. 50 – Transparenz | 2.8.2026 | | | |
 | Betreiberpflichten (Art. 26, Art. 14) | mit Anhang III | | | |
 
 Stand je Zeile: **erledigt** / **in Arbeit** / **offen** / **nicht bewertet**
@@ -76,7 +76,7 @@ Die zweite Zeile ist die wichtigste der Vorlage. Eine Zuständigkeit ohne Zeitbu
 | 4 | Wird externe Unterstützung geholt? | | | |
 | 5 | Welche Werkzeuge sind freigegeben? | | | |
 
-Entscheidung 2 bleibt in der Praxis meist unausgesprochen. Ein System läuft weiter, obwohl ein Befund offen ist — das ist zulässig und gehört als Entscheidung festgehalten, nicht als Versäumnis entstehen gelassen.
+Entscheidung 2 bleibt in der Praxis meist unausgesprochen. Ein System läuft weiter, obwohl ein Befund offen ist – das ist zulässig und gehört als Entscheidung festgehalten, nicht als Versäumnis entstehen gelassen.
 
 ## Teil 7: Befunde
 
@@ -89,7 +89,7 @@ Entscheidung 2 bleibt in der Praxis meist unausgesprochen. Ein System läuft wei
 Zur Selbstkontrolle beim nächsten Vorlegen:
 
 - [ ] Kommen neue Systeme **von selbst** ins Register, oder nur bei Suchaktionen?
-- [ ] Wie ist der letzte Auslöser bekannt geworden — durch ein Verfahren oder durch Zufall?
+- [ ] Wie ist der letzte Auslöser bekannt geworden – durch ein Verfahren oder durch Zufall?
 - [ ] Wie viele Ausgaben wurden im letzten Monat tatsächlich geändert oder verworfen?
 - [ ] Wie lange dauert es, einen bestimmten Nachweis vorzulegen?
 
@@ -105,4 +105,4 @@ Diese vier Fragen sagen mehr über den Zustand als jede Dokumentenzahl. Die erst
 | Rechtsstand geprüft am | |
 | Version dieses Fahrplans | |
 
-Frühere Fassungen bleiben erhalten. Die **Reihe** der Fahrpläne belegt, dass fortlaufend gearbeitet wurde — ein einzelner aktueller belegt das nicht.
+Frühere Fassungen bleiben erhalten. Die **Reihe** der Fahrpläne belegt, dass fortlaufend gearbeitet wurde – ein einzelner aktueller belegt das nicht.

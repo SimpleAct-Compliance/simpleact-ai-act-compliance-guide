@@ -4,7 +4,7 @@ Die Frage wird meist zu allgemein gestellt. Sie zerfällt in drei, die sich getr
 
 ## Frage 1: Fällt überhaupt etwas darunter?
 
-Ja, wenn im Haus mindestens ein KI-System im Einsatz ist. Das ist in den meisten Unternehmen der Fall, auch dort, wo niemand ein KI-Projekt kennt — weil der größere Teil der KI in eingekaufter Software steckt.
+Ja, wenn im Haus mindestens ein KI-System im Einsatz ist. Das ist in den meisten Unternehmen der Fall, auch dort, wo niemand ein KI-Projekt kennt – weil der größere Teil der KI in eingekaufter Software steckt.
 
 **Es gibt keine Schwelle** nach Beschäftigtenzahl oder Umsatz. Erleichterungen bestehen an einzelnen Stellen für kleinere Anbieter, aber keine generelle Ausnahme.
 
@@ -16,7 +16,7 @@ Ja, wenn im Haus mindestens ein KI-System im Einsatz ist. Das ist in den meisten
 | Forschung und Entwicklung | nur **vor** Inverkehrbringen oder Inbetriebnahme |
 | rein private, nicht berufliche Nutzung | natürliche Personen |
 
-Die mittlere wird regelmäßig überdehnt. Wenn Beschäftigte ein System im Arbeitsalltag benutzen, ist es in Betrieb genommen — unabhängig davon, ob das Projekt „Pilot" heißt oder ein Budget hat.
+Die mittlere wird regelmäßig überdehnt. Wenn Beschäftigte ein System im Arbeitsalltag benutzen, ist es in Betrieb genommen – unabhängig davon, ob das Projekt „Pilot" heißt oder ein Budget hat.
 
 ## Frage 2: In welcher Rolle?
 
@@ -36,7 +36,7 @@ Ein Betreiber wird zum **Anbieter**, wenn er
 3. die **Zweckbestimmung** so ändert, dass es zum Hochrisikosystem wird,
 4. ein nicht als Hochrisiko bestimmtes System für einen **Hochrisikozweck** einsetzt.
 
-Die ersten drei haben einen Anlass — eine Produktentscheidung, eine Entwicklung, einen Vertrag. Jemand könnte innehalten.
+Die ersten drei haben einen Anlass – eine Produktentscheidung, eine Entwicklung, einen Vertrag. Jemand könnte innehalten.
 
 **Der vierte hat keinen.** Niemand schließt einen Vertrag, niemand ändert Software. Es genügt, ein allgemeines Werkzeug in einem Anhang-III-Bereich einzusetzen.
 
@@ -49,7 +49,7 @@ In beiden Fällen lautet die Antwort nicht zwangsläufig „verboten". Sie laute
 
 ## Frage 3: In welcher Klasse?
 
-Das ist die Frage, die am meisten Aufmerksamkeit bekommt und am wenigsten zuerst beantwortet werden muss — weil sie Frage 1 und 2 voraussetzt.
+Das ist die Frage, die am meisten Aufmerksamkeit bekommt und am wenigsten zuerst beantwortet werden muss – weil sie Frage 1 und 2 voraussetzt.
 
 Die Tatsachenfrage, die den Einstieg ermöglicht, ohne juristische Vorbildung:
 
@@ -57,16 +57,16 @@ Die Tatsachenfrage, die den Einstieg ermöglicht, ohne juristische Vorbildung:
 
 | Antwort | Nächster Schritt |
 |---|---|
-| **nein** | mit Datum festhalten — ein geprüftes Nein ist ein Nachweis |
+| **nein** | mit Datum festhalten – ein geprüftes Nein ist ein Nachweis |
 | **ja** | rechtlich bewerten lassen, bevor es weiterläuft |
 
 Diese Frage gehört an den Anfang, nicht ans Ende. Sie kostet eine Minute je System und findet genau die Fälle, die später teuer werden.
 
 ## Räumliche Geltung (Art. 2)
 
-Die Verordnung gilt für Anbieter, die in der Union in Verkehr bringen — unabhängig vom Sitz — und für Betreiber mit Sitz in der Union. Sie gilt außerdem, wenn die **Ausgabe** in der Union verwendet wird.
+Die Verordnung gilt für Anbieter, die in der Union in Verkehr bringen – unabhängig vom Sitz – und für Betreiber mit Sitz in der Union. Sie gilt außerdem, wenn die **Ausgabe** in der Union verwendet wird.
 
-**Praktisch:** Ein Anbieter ohne EU-Sitz entbindet Sie nicht. Er macht es nur schwerer, an die Unterlagen zu kommen, die Sie als Betreiber brauchen — und ein Anbieter, der sie nicht liefert, ist ein Punkt für die Beschaffung, nicht für das Archiv.
+**Praktisch:** Ein Anbieter ohne EU-Sitz entbindet Sie nicht. Er macht es nur schwerer, an die Unterlagen zu kommen, die Sie als Betreiber brauchen – und ein Anbieter, der sie nicht liefert, ist ein Punkt für die Beschaffung, nicht für das Archiv.
 
 ## Was Sie nach dieser Seite festhalten sollten
 

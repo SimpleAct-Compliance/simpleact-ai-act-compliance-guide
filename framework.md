@@ -29,7 +29,7 @@ Eine Tatsachenfrage, keine Rechtsfrage. Der Fachbereich kann sie beantworten, si
 
 | Antwort | Nächster Schritt |
 |---|---|
-| nein | mit Datum festhalten — ein geprüftes Nein ist ein Nachweis |
+| nein | mit Datum festhalten – ein geprüftes Nein ist ein Nachweis |
 | ja | rechtlich bewerten, bevor es weiterläuft |
 
 ## Drei Sätze, die Zeit kosten
@@ -47,8 +47,8 @@ Fünf weitere: [Irrtümer](./knowledge-base/eu-ai-act/common-misconceptions.md)
 | Aufgabe | Zentral |
 |---|---|
 | Fristen kennen, Weg planen, Art. 5 prüfen, Schulung organisieren | ja |
-| **Inventareinträge aktuell halten** | nein — nur der Fachbereich merkt Veränderungen |
-| **Aufsicht ausüben** | nein — dort, wo die Ausgabe anfällt |
+| **Inventareinträge aktuell halten** | nein – nur der Fachbereich merkt Veränderungen |
+| **Aufsicht ausüben** | nein – dort, wo die Ausgabe anfällt |
 
 Eine zentrale Stelle mit achtzig Einträgen kann bei keinem sagen, ob er noch stimmt.
 

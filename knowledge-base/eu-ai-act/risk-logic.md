@@ -6,7 +6,7 @@ Für den Einstieg genügt der Aufbau. Die vollständige Einstufungslehre liegt i
 
 **Eingestuft wird ein Einsatzzweck, nicht ein Werkzeug.**
 
-Dasselbe Sprachmodell kann in der Produktsuche folgenlos und in der Bewerbervorauswahl ein Hochrisikosystem sein. Eine Zeile wie „Sprachmodell: minimales Risiko" ist deshalb keine Einstufung — sie ist eine Abkürzung, die in einer Prüfung nicht hält.
+Dasselbe Sprachmodell kann in der Produktsuche folgenlos und in der Bewerbervorauswahl ein Hochrisikosystem sein. Eine Zeile wie „Sprachmodell: minimales Risiko" ist deshalb keine Einstufung – sie ist eine Abkürzung, die in einer Prüfung nicht hält.
 
 Praktische Folge: Ein Werkzeug mit drei Einsatzzwecken braucht drei Einstufungen. Die Versuchung, eine zu machen, ist groß; der Preis fällt später an, weil eine gemeinsame Einstufung sich an der riskantesten Verwendung orientieren muss.
 
@@ -17,7 +17,7 @@ Praktische Folge: Ein Werkzeug mit drei Einsatzzwecken braucht drei Einstufungen
 | **Verboten** (Art. 5) | darf nicht betrieben werden | seit 2.2.2025 |
 | **Hochrisiko** (Anhang I/III) | voller Pflichtenkatalog | ab 2.12.2027 / 2.8.2028 |
 | **Transparenzpflicht** (Art. 50) | Kennzeichnung und Hinweise | seit 2.8.2026 |
-| **Minimal** | Inventar, Art. 4, Wiedervorlage | — |
+| **Minimal** | Inventar, Art. 4, Wiedervorlage | – |
 
 **Es ist keine Stufenleiter.** Art. 50 liegt **neben** den anderen, nicht darunter: Ein Hochrisikosystem mit Chatfunktion hat beides, und ein System mit minimalem Risiko kann eine Transparenzpflicht haben. Das ist der häufigste Denkfehler in diesem Bereich.
 
@@ -37,7 +37,7 @@ Wer bei Schritt 4 anfängt, prüft das Falsche zuerst: Spricht Schritt 3 an, ist
 
 Zehn Praktiken sind verboten. Sechs klingen exotisch und sind es in einem gewöhnlichen Unternehmen meist auch. Zwei nicht:
 
-**Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen.** Funktionen, die Gespräche nach Stimmung auswerten — in Analysewerkzeugen für Vertrieb und Personal durchaus verbreitet. Am Arbeitsplatz ist das **verboten**, nicht reguliert.
+**Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen.** Funktionen, die Gespräche nach Stimmung auswerten – in Analysewerkzeugen für Vertrieb und Personal durchaus verbreitet. Am Arbeitsplatz ist das **verboten**, nicht reguliert.
 
 **Ungezieltes Auslesen von Gesichtsbildern** aus dem Netz oder aus Überwachungsaufnahmen. Werkzeuge zur Personensuche oder Identitätsprüfung.
 
@@ -50,7 +50,7 @@ Beide kommen als Funktion in gekaufter Software vor, ohne dass jemand sie bestel
 | **Beschäftigung** | Bewerberauswahl, Leistungsbewertung, Aufgabenzuweisung, Kündigung |
 | **Wesentliche Dienstleistungen** | Kreditwürdigkeit, Versicherungstarifierung |
 
-Die anderen sechs — Biometrie, kritische Infrastruktur, Bildung, Strafverfolgung, Migration, Justiz — treffen vor allem Behörden und bestimmte Branchen.
+Die anderen sechs – Biometrie, kritische Infrastruktur, Bildung, Strafverfolgung, Migration, Justiz – treffen vor allem Behörden und bestimmte Branchen.
 
 **Beschäftigung ist der häufigste und unauffälligste Fall**, weil Personalwerkzeuge selten als KI-Projekt beschafft werden.
 
@@ -62,9 +62,9 @@ Zwei Dinge, die regelmäßig schiefgehen:
 
 **Sie ist kein Freibrief.** Die Verordnung verlangt eine **dokumentierte Bewertung**. Ein Satz „fällt unter die Ausnahme" ohne Begründung ist kein erfüllter Punkt.
 
-**Die Rückausnahme wird übersehen.** Wird **Profiling** natürlicher Personen vorgenommen, greift die Ausnahme **nicht** — unabhängig von allen vier Tatbeständen. Sie steht nicht in der Aufzählung, sondern danach, und wird deshalb beim Lesen oft übersprungen.
+**Die Rückausnahme wird übersehen.** Wird **Profiling** natürlicher Personen vorgenommen, greift die Ausnahme **nicht** – unabhängig von allen vier Tatbeständen. Sie steht nicht in der Aufzählung, sondern danach, und wird deshalb beim Lesen oft übersprungen.
 
-Und die inhaltlich schwierige Stelle: „ohne die menschliche Bewertung zu ersetzen". Wird ein Vorschlag in 98 von 100 Fällen übernommen, ersetzt er sie praktisch — unabhängig davon, was im Prozessdiagramm steht.
+Und die inhaltlich schwierige Stelle: „ohne die menschliche Bewertung zu ersetzen". Wird ein Vorschlag in 98 von 100 Fällen übernommen, ersetzt er sie praktisch – unabhängig davon, was im Prozessdiagramm steht.
 
 ## Art. 50: klein, und heute fällig
 

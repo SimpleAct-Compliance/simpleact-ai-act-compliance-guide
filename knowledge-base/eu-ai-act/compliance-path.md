@@ -2,13 +2,13 @@
 
 Sechs Phasen, in dieser Reihenfolge. Je Phase: was zu tun ist, welcher Aufwand realistisch anfällt, und was am Ende vorliegt.
 
-Die Aufwandsangaben gelten für ein Unternehmen mit etwa 40 Beschäftigten und einer Person, die das nebenbei macht. Sie sind geschätzt, nicht gemessen — aber die Größenordnung ist wichtiger als die Zahl, weil das Missverhältnis zwischen den Phasen der eigentliche Hinweis ist.
+Die Aufwandsangaben gelten für ein Unternehmen mit etwa 40 Beschäftigten und einer Person, die das nebenbei macht. Sie sind geschätzt, nicht gemessen – aber die Größenordnung ist wichtiger als die Zahl, weil das Missverhältnis zwischen den Phasen der eigentliche Hinweis ist.
 
 ---
 
 ## Phase 1: Verbotenes ausschließen
 
-**Warum zuerst:** Art. 5 gilt seit **2.2.2025**, und ein Treffer macht alles Weitere gegenstandslos — ein Verbot lässt sich nicht durch Dokumentation heilen. Die Phase ist außerdem kurz.
+**Warum zuerst:** Art. 5 gilt seit **2.2.2025**, und ein Treffer macht alles Weitere gegenstandslos – ein Verbot lässt sich nicht durch Dokumentation heilen. Die Phase ist außerdem kurz.
 
 **Was zu tun ist:** Die zehn verbotenen Praktiken einmal durchgehen. Nicht aus dem Gedächtnis, sondern an den eingesetzten Werkzeugen.
 
@@ -23,7 +23,7 @@ Die beiden, die in gekaufter Software vorkommen und deshalb konkret zu prüfen s
 
 ## Phase 2: Bestand aufnehmen
 
-**Warum hier:** Ohne Register ist jede weitere Aussage eine Vermutung. Und diese Phase ist die längste — wer sie unterschätzt, plant den Rest falsch.
+**Warum hier:** Ohne Register ist jede weitere Aussage eine Vermutung. Und diese Phase ist die längste – wer sie unterschätzt, plant den Rest falsch.
 
 **Was zu tun ist:** Aus fünf Quellen suchen, nicht fragen:
 
@@ -51,7 +51,7 @@ Ausführlich: [KI-Inventar](https://github.com/SimpleAct-Compliance/simpleact-ai
 
 | Fall | Pflicht |
 |---|---|
-| Chatbot, Sprachassistent, direkter Kontakt | Hinweis, dass es KI ist — sichtbar **vor** der ersten Eingabe |
+| Chatbot, Sprachassistent, direkter Kontakt | Hinweis, dass es KI ist – sichtbar **vor** der ersten Eingabe |
 | erzeugte oder bearbeitete Inhalte (Text, Bild, Ton, Video) | maschinenlesbare Kennzeichnung |
 | Emotionserkennung, biometrische Kategorisierung | Betroffene informieren |
 | Deepfake | offenlegen |
@@ -62,13 +62,13 @@ Ausführlich: [KI-Inventar](https://github.com/SimpleAct-Compliance/simpleact-ai
 
 ## Phase 4: KI-Kompetenz
 
-**Warum hier:** Art. 4 gilt seit **2.2.2025** und braucht keine Risikoklasse — seit 27.7.2026 in der neu gefassten, schwächeren Form: **Maßnahmen zur Förderung** der KI-Kompetenz ergreifen, statt ein Niveau je Person sicherzustellen. Rechtlich ist weniger verlangt; praktisch bleibt die Phase Voraussetzung für Phase 6, weil eine menschliche Aufsicht, die nicht versteht, wie ein Modell irrt, keine Aufsicht ist.
+**Warum hier:** Art. 4 gilt seit **2.2.2025** und braucht keine Risikoklasse – seit 27.7.2026 in der neu gefassten, schwächeren Form: **Maßnahmen zur Förderung** der KI-Kompetenz ergreifen, statt ein Niveau je Person sicherzustellen. Rechtlich ist weniger verlangt; praktisch bleibt die Phase Voraussetzung für Phase 6, weil eine menschliche Aufsicht, die nicht versteht, wie ein Modell irrt, keine Aufsicht ist.
 
-**Was zu tun ist:** Festhalten, wer welches System bedient und beaufsichtigt, und für diese Leute Maßnahmen ergreifen — in der Praxis: **systembezogen** schulen. Die Verordnung schreibt die Form nicht vor; Schulung mit Teilnahmeliste ist der Nachweis, der sich vorlegen lässt. Eine allgemeine KI-Schulung sagt über das eingesetzte System nichts.
+**Was zu tun ist:** Festhalten, wer welches System bedient und beaufsichtigt, und für diese Leute Maßnahmen ergreifen – in der Praxis: **systembezogen** schulen. Die Verordnung schreibt die Form nicht vor; Schulung mit Teilnahmeliste ist der Nachweis, der sich vorlegen lässt. Eine allgemeine KI-Schulung sagt über das eingesetzte System nichts.
 
 Was eine brauchbare Schulung vermittelt:
 
-- wie dieses Modell typischerweise irrt — mit Beispielen aus dem eigenen Haus
+- wie dieses Modell typischerweise irrt – mit Beispielen aus dem eigenen Haus
 - woran man eine falsche Ausgabe erkennt
 - was man damit **tun** darf: übergehen, korrigieren, eskalieren
 - was nicht hineingegeben werden darf
@@ -81,7 +81,7 @@ Was eine brauchbare Schulung vermittelt:
 
 **Warum erst jetzt:** Eine Einstufung braucht das Register aus Phase 2. Vorher ist sie eine Schätzung mit Aktenzeichen.
 
-**Was zu tun ist:** Je Einsatzzweck in dieser Reihenfolge prüfen — KI-System, Ausnahme, Art. 5, Anhang I/III, Art. 50. Und die Rollenfrage: Greift Art. 25?
+**Was zu tun ist:** Je Einsatzzweck in dieser Reihenfolge prüfen – KI-System, Ausnahme, Art. 5, Anhang I/III, Art. 50. Und die Rollenfrage: Greift Art. 25?
 
 Die Frage, die den unbemerkten Fall findet: **Berührt die Ausgabe Beschäftigung, Bildung, Kreditwürdigkeit, Strafverfolgung, Migration, Justiz, wesentliche Dienstleistungen oder kritische Infrastruktur?**
 
@@ -103,7 +103,7 @@ Ausführlich: [Risikoeinstufung](https://github.com/SimpleAct-Compliance/simplea
 - Auslöser je System eintragen, die eine Neubewertung erfordern
 - einen **Testsatz** gegen den stillen Modellwechsel einrichten
 
-**Was bei Hochrisiko hinzukommt und lange dauert:** Risikomanagementsystem, technische Dokumentation nach Anhang IV, Qualitätsmanagement, Konformitätsbewertung — und das nur in der Anbieterrolle.
+**Was bei Hochrisiko hinzukommt und lange dauert:** Risikomanagementsystem, technische Dokumentation nach Anhang IV, Qualitätsmanagement, Konformitätsbewertung – und das nur in der Anbieterrolle.
 
 **Aufwand:** nicht in Tagen schätzbar. Bei einem Hochrisikosystem in der Anbieterrolle ist das ein Projekt, nicht eine Aufgabe.
 
@@ -129,7 +129,7 @@ Die Phasen 1 bis 4 sind zusammen etwa zwei Arbeitswochen und decken alles ab, wa
 Nicht die Phasenliste, sondern drei Zahlen:
 
 1. **Wie viele KI-Einsatzzwecke** gibt es (nach Phase 2)?
-2. **Wie viele berühren einen Anhang-III-Bereich** — und sind damit rechtlich zu bewerten?
+2. **Wie viele berühren einen Anhang-III-Bereich** – und sind damit rechtlich zu bewerten?
 3. **Welche Pflichten sind heute fällig**, und welche davon sind noch offen?
 
 Vorlage: [Fahrplan](../../templates/compliance-roadmap-template.md)

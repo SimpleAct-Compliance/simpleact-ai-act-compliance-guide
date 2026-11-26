@@ -92,4 +92,4 @@ Machine-readable: [framework/simpleact-framework.json](./framework/simpleact-fra
 
 ## Status and licence
 
-Last updated: 2026-11-24. MIT licence, free to use, also commercially. Not legal advice.
+Last updated: 2026-11-26. MIT licence, free to use, also commercially. Not legal advice.

@@ -18,7 +18,7 @@ Ohne diese drei Antworten wird der Fahrplan abgearbeitet, bis die zuständige Pe
 
 ## Was die Vorlage bewusst nicht ist
 
-Kein Projektplan mit sechzig Zeilen. Der Zweck ist, eine Lage in zehn Minuten vermittelbar zu machen — drei Zahlen, vier fällige Pflichten, fünf Entscheidungen.
+Kein Projektplan mit sechzig Zeilen. Der Zweck ist, eine Lage in zehn Minuten vermittelbar zu machen – drei Zahlen, vier fällige Pflichten, fünf Entscheidungen.
 
 Wer die Pflichtenliste vollständig vorlegt, bekommt keine Entscheidung, sondern eine Vertagung.
 
@@ -28,10 +28,10 @@ Dieses Repository ist der Einstieg. Für die Phasen selbst gibt es ausgearbeitet
 
 | Phase | Vorlagen |
 |---|---|
-| 2 Bestand aufnehmen | [KI-Inventar](https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory) — Eintrag, Felderklärung, Beispielregister |
-| 5 Einstufen | [Risikoeinstufung](https://github.com/SimpleAct-Compliance/simpleact-ai-risk-classification-eu) — Einstufungsbogen, Auslöserliste |
-| 6 Pflichten | [Prüfliste AI Act](https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist) — Freigabe- und Turnusprüfung |
-| 6 Dokumentation | [Dokumentationsvorlage](https://github.com/SimpleAct-Compliance/simpleact-ai-act-documentation-template) — Anhang IV |
+| 2 Bestand aufnehmen | [KI-Inventar](https://github.com/SimpleAct-Compliance/simpleact-ai-system-inventory) – Eintrag, Felderklärung, Beispielregister |
+| 5 Einstufen | [Risikoeinstufung](https://github.com/SimpleAct-Compliance/simpleact-ai-risk-classification-eu) – Einstufungsbogen, Auslöserliste |
+| 6 Pflichten | [Prüfliste AI Act](https://github.com/SimpleAct-Compliance/simpleact-ai-act-checklist) – Freigabe- und Turnusprüfung |
+| 6 Dokumentation | [Dokumentationsvorlage](https://github.com/SimpleAct-Compliance/simpleact-ai-act-documentation-template) – Anhang IV |
 
 ## Format
 
